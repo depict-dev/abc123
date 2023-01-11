@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: mgk1231/abcd:v3
+     image: mgk1231/abcd:v4
      imagePullPolicy: Always
      stdin: true
      tty: true
