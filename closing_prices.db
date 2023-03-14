@@ -1,0 +1,9 @@
+{"_id":{"$oid":"640ff18603e25da723f44c5b"},"stock_id":"s1","period_end_min":"20230312 1049","tot_qty":20,"tot_price":50,"closing_price":2.5}
+{"_id":{"$oid":"640ff1bd03e25da723f44c5d"},"stock_id":"s1","period_end_min":"20230312 1050","tot_qty":10,"tot_price":24,"closing_price":2.4}
+{"_id":{"$oid":"641029f303e25da723f44c5f"},"stock_id":"s1","period_end_min":"20230312 1048","tot_qty":10,"tot_price":23,"closing_price":2.3}
+{"_id":{"$oid":"64102a0603e25da723f44c61"},"stock_id":"s1","period_end_min":"20230312 1047","tot_qty":10,"tot_price":22,"closing_price":2.2}
+{"_id":{"$oid":"64102a1d03e25da723f44c63"},"stock_id":"s1","period_end_min":"20230312 1046","tot_qty":20,"tot_price":48,"closing_price":2.4}
+{"_id":{"$oid":"64102a3b03e25da723f44c65"},"stock_id":"s1","period_end_min":"20230312 1045","tot_qty":5,"tot_price":9.5,"closing_price":1.9}
+{"_id":{"$oid":"64102a4c03e25da723f44c67"},"stock_id":"s1","period_end_min":"20230312 1044","tot_qty":10,"tot_price":21,"closing_price":2.1}
+{"_id":{"$oid":"64102a5c03e25da723f44c69"},"stock_id":"s1","period_end_min":"20230312 1043","tot_qty":10,"tot_price":20,"closing_price":2}
+{"_id":{"$oid":"64102a7603e25da723f44c6b"},"stock_id":"s1","period_end_min":"20230312 1042","tot_qty":10,"tot_price":22,"closing_price":2.2}
